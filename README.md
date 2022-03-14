@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- My name is Jonathan Daniel and I am a Junior Computer Science student at Clemson University.
+
 <!--
 **JDaniel41/JDaniel41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
