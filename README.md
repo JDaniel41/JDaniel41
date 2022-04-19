@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - My name is Jonathan Daniel and I am a Junior Computer Science student at Clemson University.
+- Currently, I conduct research through the Watson-In-The-Watt Creative Inquiry and the Clemson Energy Visualization and Analytics Center
+- In the past, I have interned with State Farm and Meta. This Summer, I will be a Sofware Engineering Intern with Lyft.
 
 <!--
 **JDaniel41/JDaniel41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
